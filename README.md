@@ -161,9 +161,9 @@ difference across income groups is statistically confirmed
 
 ## Interactive Dashboard
 
-🔗 [View Dashboard on Tableau Public](https://public.tableau.com/views/RetailCustomerBehaviorAnalysis_17744528551900/RetailCustomerBehaviorAnalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+🔗 [View Dashboard on Tableau Public](https://public.tableau.com/views/RetailCustomerBehaviorAnalysis_17744528551900/RetailCustomerBehaviorAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-The dashboard includes 5 KPI cards, 4 interactive charts, and 3 global filters.
+The dashboard includes 5 KPI cards, 5 interactive charts, and 3 global filters.
 
 **KPI cards** (Total Revenue, Total Households, Coupon Households, Total Baskets, 
 Avg Basket Value) reflect all **2,500 households**.
